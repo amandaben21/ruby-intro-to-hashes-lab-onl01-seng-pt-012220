@@ -49,10 +49,15 @@ monopoly = {
 	  :railroads => {
 	    :pieces => 4,
 	    :names => {
-	      :reading_railroad => {},
-	      "mortgag_value"=>
-	      :pennsylvania_railroad => {},
-	      :b_and_o_railroad => {},
+	      :reading_railroad => {
+	      "mortgag_value"=> "$100"
+	      },
+	      :pennsylvania_railroad => {
+	      "mortgag_value"=> "$200"
+	      },
+	      :b_and_o_railroad => {
+	        "mortgag_value"=> "$400"
+	        },
 	      :shortline => {}
 	    },
 	    :rent_in_dollars => {
