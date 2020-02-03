@@ -50,6 +50,7 @@ monopoly = {
 	    :pieces => 4,
 	    :names => {
 	      :reading_railroad => {},
+	      "mortgag_value"=>
 	      :pennsylvania_railroad => {},
 	      :b_and_o_railroad => {},
 	      :shortline => {}
