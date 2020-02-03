@@ -36,7 +36,7 @@ def monopoly_with_third_tier
 	    :b_and_o_railroad => {},
 	    :shortline => {}
 	    },
-	      :rent_in_dollars => {}
+	      :rent_in_dollars => {
 	      :one_piece_owned => 25,
 	      :two_piece_owned => 50,
 	      :three_pieces_owned => 100,
@@ -52,16 +52,16 @@ monopoly = {
 	    :pieces => 4,
 	    :names => {
 	      :reading_railroad => {
-	      "mortgag_value"=> "$100"
+	      "mortgage_value"=> "$100"
 	      },
 	      :pennsylvania_railroad => {
-	      "mortgag_value"=> "$200"
+	      "mortgage_value"=> "$200"
 	      },
 	      :b_and_o_railroad => {
-	        "mortgag_value"=> "$400"
+	        "mortgage_value"=> "$400"
 	        },
 	      :shortline => {
-	        "mortgag_value"=> "$800"
+	        "mortgage_value"=> "$800"
 	    },
 	    :rent_in_dollars => {
 	      :one_piece_owned => 25,
