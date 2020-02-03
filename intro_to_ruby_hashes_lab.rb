@@ -58,10 +58,10 @@ monopoly = {
 	      "mortgag_value"=> "$200"
 	      },
 	      :b_and_o_railroad => {
-	        "mortgag_value"=> "$400"
+	        "mortgag_value"=> "$300"
 	        },
 	      :shortline => {
-	        "mortgag_value"=> "$800"
+	        "mortgag_value"=> "$400"
 	    },
 	    :rent_in_dollars => {
 	      :one_piece_owned => 25,
